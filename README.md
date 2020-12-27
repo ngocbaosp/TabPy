@@ -17,8 +17,7 @@ pip install -U scikit-learn
 ## Connect TabPy in Tableau
  - In Tableau Desktop, click the Help menu, and then select Settings and Performance > Manage External Service connection to open the External Service Connection dialog box:
  - Specify the type of analytics extension you want to connect to: RServe or TabPy/External API. The TabPy/External API option covers connections to TabPy and MATLAB.
- - ...
-https://help.tableau.com/v2020.1/pro/desktop/en-us/r_connection_manage.htm#configure-an-analytics-extensions-connection
+ - Ref: https://help.tableau.com/v2020.1/pro/desktop/en-us/r_connection_manage.htm#configure-an-analytics-extensions-connection
 
 ## Publish new function/method to TabPy server
 
