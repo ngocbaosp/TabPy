@@ -53,4 +53,10 @@ SCRIPT_INT("
 SUM(X),SUM(Y))
 
 ```
+## References
+- https://www.tableau.com/about/blog/2018/8/working-external-services-tableau-tabpy-r-matlab-93351?_ga=2.222069278.748154300.1608156447-1598563553.1602561206
+- https://www.tableau.com/about/blog/2017/1/building-advanced-analytics-applications-tabpy-64916
+- https://www.tableau.com/about/blog/2016/11/leverage-power-python-tableau-tabpy-62077
+- https://help.tableau.com/v2020.1/pro/desktop/en-us/r_connection_manage.htm#configure-an-analytics-extensions-connection
+- https://help.tableau.com/current/server/en-us/config_r_tabpy.htm
 
