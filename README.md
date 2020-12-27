@@ -34,4 +34,23 @@ connection.deploy('TestAdd',
                   'Returns a+b', override = True)
 
 ```
-##
+## Create a calculate field and Python script in Tableau Desktop
+
+Assuming that in the data source we have a table with two fields X, Y 
+This script will return the sum of X and Y using method TestAdd above
+```
+SCRIPT_INT("
+ print('aaa')
+ print (_arg1) 
+ print (_arg2)
+ t = tabpy.query('TestAdd',_arg1,_arg2)['response']
+ print ('sum') 
+ print (t)
+ print (sum(t))
+
+ return sum(t)
+",
+SUM(X),SUM(Y))
+
+```
+
