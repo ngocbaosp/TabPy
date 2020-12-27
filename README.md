@@ -3,6 +3,11 @@
 ## Install
 ```
 pip install tabpy-server
+
+pip install tornado==5.1.1
+
+pip install -U scikit-learn
+
 ```
 
 ## Start TabPy Server
