@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c984fe3d-1ed8-41ca-8264-75c94312c033" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="c3833131-7850-4232-8932-22c68b62a09b">
+    <option name="files">
+      <option value="LSTMStock.ipynb" />
+      <option value="LSTMStock01.ipynb" />
+      <option value="LSTMStock02.ipynb" />
+      <option value="SP500StockPrices.ipynb" />
+      <option value="aaa.ipynb" />
+    </option>
+  </component>
+  <component name="ProjectId" id="1li2D9vM54fNk2BXl2wzi02icOj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MachineLearning/Demo/Project02" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Python.api">
+    <configuration name="FirstSample" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SQL Server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\TNB\Learning\Python\MachineLearning\Demo\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FirstSample.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="api" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SQL Server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api/api.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testJson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SQL Server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data/testJson.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.api" />
+        <item itemvalue="Python.testJson" />
+        <item itemvalue="Python.FirstSample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c984fe3d-1ed8-41ca-8264-75c94312c033" name="Default Changelist" comment="" />
+      <created>1608065468245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608065468245</updated>
+      <workItem from="1608065469468" duration="612000" />
+      <workItem from="1608066147626" duration="5029000" />
+      <workItem from="1608349180299" duration="61753000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609220188224">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608066864399" />
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1040/-1920.0.1536.824/0.0.1920.1040@0.0.1920.1040" timestamp="1609220188224" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1609011242593">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/-1920.0.1536.832/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608740744101" />
+    <state x="740" y="276" key="FileChooserDialogImpl/-1920.0.1536.832/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609011242593" />
+    <state width="1877" height="2" key="GridCell.Tab.0.bottom" timestamp="1609224941715">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="269" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608954996412" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608262993448" />
+    <state width="1877" height="269" key="GridCell.Tab.0.bottom/-1920.0.1536.832/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609015427038" />
+    <state width="1877" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1609201823461" />
+    <state width="1877" height="2" key="GridCell.Tab.0.bottom/1920.0.1920.1040/-1920.0.1536.824/0.0.1920.1040@0.0.1920.1040" timestamp="1609224941715" />
+    <state width="1877" height="269" key="GridCell.Tab.0.bottom/1920.0.1920.1040/-1920.0.1536.824/0.0.1920.1040@1920.0.1920.1040" timestamp="1609214489645" />
+    <state width="1877" height="2" key="GridCell.Tab.0.center" timestamp="1609224941715">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="269" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608954996412" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608262993448" />
+    <state width="1877" height="269" key="GridCell.Tab.0.center/-1920.0.1536.832/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609015427038" />
+    <state width="1877" height="269" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1609201823460" />
+    <state width="1877" height="2" key="GridCell.Tab.0.center/1920.0.1920.1040/-1920.0.1536.824/0.0.1920.1040@0.0.1920.1040" timestamp="1609224941715" />
+    <state width="1877" height="269" key="GridCell.Tab.0.center/1920.0.1920.1040/-1920.0.1536.824/0.0.1920.1040@1920.0.1920.1040" timestamp="1609214489645" />
+    <state width="1877" height="2" key="GridCell.Tab.0.left" timestamp="1609224941715">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="269" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608954996411" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608262993448" />
+    <state width="1877" height="269" key="GridCell.Tab.0.left/-1920.0.1536.832/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609015427038" />
+    <state width="1877" height="269" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1609201823460" />
+    <state width="1877" height="2" key="GridCell.Tab.0.left/1920.0.1920.1040/-1920.0.1536.824/0.0.1920.1040@0.0.1920.1040" timestamp="1609224941715" />
+    <state width="1877" height="269" key="GridCell.Tab.0.left/1920.0.1920.1040/-1920.0.1536.824/0.0.1920.1040@1920.0.1920.1040" timestamp="1609214489645" />
+    <state width="1877" height="2" key="GridCell.Tab.0.right" timestamp="1609224941715">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="269" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608954996412" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608262993448" />
+    <state width="1877" height="269" key="GridCell.Tab.0.right/-1920.0.1536.832/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609015427038" />
+    <state width="1877" height="269" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1609201823460" />
+    <state width="1877" height="2" key="GridCell.Tab.0.right/1920.0.1920.1040/-1920.0.1536.824/0.0.1920.1040@0.0.1920.1040" timestamp="1609224941715" />
+    <state width="1877" height="269" key="GridCell.Tab.0.right/1920.0.1920.1040/-1920.0.1536.824/0.0.1920.1040@1920.0.1920.1040" timestamp="1609214489645" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1609214081499">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608262993442" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.0.1920.1040/-1920.0.1536.824/0.0.1920.1040@1920.0.1920.1040" timestamp="1609214081499" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1609214081499">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608262993442" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/1920.0.1920.1040/-1920.0.1536.824/0.0.1920.1040@1920.0.1920.1040" timestamp="1609214081499" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1609214081498">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608262993442" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/1920.0.1920.1040/-1920.0.1536.824/0.0.1920.1040@1920.0.1920.1040" timestamp="1609214081498" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1609214081499">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608262993442" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/1920.0.1920.1040/-1920.0.1536.824/0.0.1920.1040@1920.0.1920.1040" timestamp="1609214081499" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1609133234404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/-1920.0.1536.832/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608954845045" />
+    <state x="461" y="163" key="SettingsEditor/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608065688373" />
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1609133234404" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1608349236132">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/-1920.0.1536.832/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608349236132" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1609001335263">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1/-1920.0.1536.832/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609001335263" />
+    <state x="92" y="92" width="1736" height="856" maximized="true" key="dock-window-2" timestamp="1609001335264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" maximized="true" key="dock-window-2/-1920.0.1536.832/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1609001335264" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SQL_Server$api.coverage" NAME="api Coverage Results" MODIFIED="1609224941705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/SQL_Server$FirstSample.coverage" NAME="FirstSample Coverage Results" MODIFIED="1609015427029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SQL_Server$testJson.coverage" NAME="testJson Coverage Results" MODIFIED="1609201823361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data" />
+  </component>
+</project>
