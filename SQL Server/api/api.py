@@ -48,8 +48,8 @@ x = goog_df[['open', 'low', 'high', 'volume']].copy()
 
 y = goog_df['close'].copy()
 
-x[['open', 'low', 'high', 'volume']] = x_scaler.fit_transform(x)
-y = y_scaler.fit_transform(y.values.reshape(-1, 1))
+#x[['open', 'low', 'high', 'volume']] = x_scaler.fit_transform(x)
+#y = y_scaler.fit_transform(y.values.reshape(-1, 1))
 
 
 model = load_model("c:\TNB\Learning\Python\SQL Server\model_01.h5")
