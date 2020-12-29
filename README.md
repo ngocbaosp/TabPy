@@ -63,4 +63,4 @@ SUM(X),SUM(Y))
 - https://www.tableau.com/about/blog/2016/11/leverage-power-python-tableau-tabpy-62077
 - https://help.tableau.com/v2020.1/pro/desktop/en-us/r_connection_manage.htm#configure-an-analytics-extensions-connection
 - https://help.tableau.com/current/server/en-us/config_r_tabpy.htm
-
+- http://zachmoshe.com/2017/04/03/pickling-keras-models.html
