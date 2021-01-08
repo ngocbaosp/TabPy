@@ -14,11 +14,6 @@ pip install -U scikit-learn
 - Go to folder: \venv\Lib\site-packages\tabpy_server
 - Run cmd: startup.bat
 
-## Connect TabPy in Tableau
- - In Tableau Desktop, click the Help menu, and then select Settings and Performance > Manage External Service connection to open the External Service Connection dialog box:
- - Specify the type of analytics extension you want to connect to: RServe or TabPy/External API. The TabPy/External API option covers connections to TabPy and MATLAB.
- - Ref: https://help.tableau.com/v2020.1/pro/desktop/en-us/r_connection_manage.htm#configure-an-analytics-extensions-connection
-
 ## Publish new function/method to TabPy server
 
 Run the code below in Jupiter notebook or Pycharm notebook
@@ -38,6 +33,12 @@ connection.deploy('TestAdd',
                   'Returns a+b', override = True)
 
 ```
+
+## Connect TabPy in Tableau
+ - In Tableau Desktop, click the Help menu, and then select Settings and Performance > Manage External Service connection to open the External Service Connection dialog box:
+ - Specify the type of analytics extension you want to connect to: RServe or TabPy/External API. The TabPy/External API option covers connections to TabPy and MATLAB.
+ - Ref: https://help.tableau.com/v2020.1/pro/desktop/en-us/r_connection_manage.htm#configure-an-analytics-extensions-connection
+
 ## Create a calculate field and Python script in Tableau Desktop
 
 Assuming that in the data source we have a table with two fields X, Y 
