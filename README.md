@@ -39,7 +39,7 @@ connection.deploy('TestAdd',
  - Specify the type of analytics extension you want to connect to: RServe or TabPy/External API. The TabPy/External API option covers connections to TabPy and MATLAB.
  - Ref: https://help.tableau.com/v2020.1/pro/desktop/en-us/r_connection_manage.htm#configure-an-analytics-extensions-connection
 
-## Create a calculate field and Python script in Tableau Desktop
+## Create a calculated field and Python script in Tableau Desktop
 
 Assuming that in the data source we have a table with two fields X, Y 
 This script will return the sum of X and Y using method TestAdd above
